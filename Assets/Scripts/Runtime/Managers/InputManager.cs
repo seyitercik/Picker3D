@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using Data.UnityObjects;
-using Data.ValueObjects;
 using Keys;
-using Signals;
+using Runtime.Data.UnityObjects;
+using Runtime.Data.ValueObjects;
+using Runtime.Signals;
 using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.EventSystems;
